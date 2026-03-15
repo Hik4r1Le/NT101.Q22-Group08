@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University_Stuff\\6._HK2_2025-2026\\NT101-Network_Security\\NT101.Q22.1-Group08\\Lab01\\Lab01 2.1 2.4\\CaesarCipher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B12F071-C216-4E11-909D-3361D288650D}|CaesarCipher.csproj|d:\\university_stuff\\6._hk2_2025-2026\\nt101-network_security\\nt101.q22.1-group08\\lab01\\lab01 2.1 2.4\\caesarcipher\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B12F071-C216-4E11-909D-3361D288650D}|CaesarCipher.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B12F071-C216-4E11-909D-3361D288650D}|CaesarCipher.csproj|d:\\university_stuff\\6._hk2_2025-2026\\nt101-network_security\\nt101.q22.1-group08\\lab01\\lab01 2.1 2.4\\caesarcipher\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B12F071-C216-4E11-909D-3361D288650D}|CaesarCipher.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\University_Stuff\\6._HK2_2025-2026\\NT101-Network_Security\\NT101.Q22.1-Group08\\Lab01\\Lab01 2.1 2.4\\CaesarCipher\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\University_Stuff\\6._HK2_2025-2026\\NT101-Network_Security\\NT101.Q22.1-Group08\\Lab01\\Lab01 2.1 2.4\\CaesarCipher\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:15:06.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\University_Stuff\\6._HK2_2025-2026\\NT101-Network_Security\\NT101.Q22.1-Group08\\Lab01\\Lab01 2.1 2.4\\CaesarCipher\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\University_Stuff\\6._HK2_2025-2026\\NT101-Network_Security\\NT101.Q22.1-Group08\\Lab01\\Lab01 2.1 2.4\\CaesarCipher\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:08:38.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

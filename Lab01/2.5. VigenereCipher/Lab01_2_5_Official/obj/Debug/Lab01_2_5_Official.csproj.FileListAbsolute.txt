@@ -1,0 +1,21 @@
+D:\Download From Internet\PracticeClass_ATMMT\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\bin\Debug\Lab01_2_5_Official.exe.config
+D:\Download From Internet\PracticeClass_ATMMT\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\bin\Debug\Lab01_2_5_Official.exe
+D:\Download From Internet\PracticeClass_ATMMT\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\bin\Debug\Lab01_2_5_Official.pdb
+D:\Download From Internet\PracticeClass_ATMMT\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.csproj.AssemblyReference.cache
+D:\Download From Internet\PracticeClass_ATMMT\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.Form1.resources
+D:\Download From Internet\PracticeClass_ATMMT\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.Properties.Resources.resources
+D:\Download From Internet\PracticeClass_ATMMT\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.csproj.GenerateResource.cache
+D:\Download From Internet\PracticeClass_ATMMT\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.csproj.CoreCompileInputs.cache
+D:\Download From Internet\PracticeClass_ATMMT\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.exe
+D:\Download From Internet\PracticeClass_ATMMT\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.pdb
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\bin\Debug\Lab01_2_5_Official.exe.config
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\bin\Debug\Lab01_2_5_Official.exe
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\bin\Debug\Lab01_2_5_Official.pdb
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.csproj.AssemblyReference.cache
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.exe.config
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.Form1.resources
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.Properties.Resources.resources
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.csproj.GenerateResource.cache
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.csproj.CoreCompileInputs.cache
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.exe
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01_2.5\Lab01_2_5_Official\Lab01_2_5_Official\obj\Debug\Lab01_2_5_Official.pdb

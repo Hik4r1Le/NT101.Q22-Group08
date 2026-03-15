@@ -1,0 +1,33 @@
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.MainForm.resources
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.AssemblyInfo.cs
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\bin\Debug\net9.0-windows\PlayfairCipher.exe
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\bin\Debug\net9.0-windows\PlayfairCipher.deps.json
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\bin\Debug\net9.0-windows\PlayfairCipher.runtimeconfig.json
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\bin\Debug\net9.0-windows\PlayfairCipher.dll
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\bin\Debug\net9.0-windows\PlayfairCipher.pdb
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.dll
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\obj\Debug\net9.0-windows\refint\PlayfairCipher.dll
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.pdb
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.genruntimeconfig.cache
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\PlayfairCipher\obj\Debug\net9.0-windows\ref\PlayfairCipher.dll
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\bin\Debug\net9.0-windows\PlayfairCipher.exe
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\bin\Debug\net9.0-windows\PlayfairCipher.deps.json
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\bin\Debug\net9.0-windows\PlayfairCipher.runtimeconfig.json
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\bin\Debug\net9.0-windows\PlayfairCipher.dll
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\bin\Debug\net9.0-windows\PlayfairCipher.pdb
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.MainForm.resources
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.csproj.GenerateResource.cache
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.AssemblyInfoInputs.cache
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.AssemblyInfo.cs
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.csproj.CoreCompileInputs.cache
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.sourcelink.json
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.dll
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\obj\Debug\net9.0-windows\refint\PlayfairCipher.dll
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.pdb
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\obj\Debug\net9.0-windows\PlayfairCipher.genruntimeconfig.cache
+D:\University_Stuff\6._HK2_2025-2026\NT101-Network_Security\NT101.Q22.1-Group08\Lab01\Lab01 2.1 2.4\PlayfairCipher\obj\Debug\net9.0-windows\ref\PlayfairCipher.dll

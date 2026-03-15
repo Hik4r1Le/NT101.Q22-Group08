@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\obj\Debug\net9.0-windows\CaesarCipher.MainForm.resources
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\obj\Debug\net9.0-windows\CaesarCipher.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\obj\Debug\net9.0-windows\CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\obj\Debug\net9.0-windows\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\obj\Debug\net9.0-windows\CaesarCipher.AssemblyInfo.cs
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\obj\Debug\net9.0-windows\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\bin\Debug\net9.0-windows\CaesarCipher.exe
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\bin\Debug\net9.0-windows\CaesarCipher.deps.json
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\bin\Debug\net9.0-windows\CaesarCipher.runtimeconfig.json
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\bin\Debug\net9.0-windows\CaesarCipher.dll
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\bin\Debug\net9.0-windows\CaesarCipher.pdb
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\obj\Debug\net9.0-windows\CaesarCipher.dll
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\obj\Debug\net9.0-windows\refint\CaesarCipher.dll
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\obj\Debug\net9.0-windows\CaesarCipher.pdb
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\obj\Debug\net9.0-windows\CaesarCipher.genruntimeconfig.cache
+C:\Users\Admin\Documents\ForTheFuture\ForthSemester\ATMMT\Lab1\Bai1\CaesarCipher\obj\Debug\net9.0-windows\ref\CaesarCipher.dll
