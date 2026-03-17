@@ -4,3 +4,4 @@
 
 Với các chương trình sử dụng Winform, đảm bảo đã cài .NET desktop development qua Visual Studio phiên bản tối thiểu 17.12. Sau đó tìm các file solution trong các thư mục để chỉnh sửa và chạy chương trình.
 
+Các thông tin khác có ở thư mục gốc của repo.
