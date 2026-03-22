@@ -1,0 +1,10 @@
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb 
+.vs/ 
+*.user
+*.su
+UpgradeLog.xml
+*.log
