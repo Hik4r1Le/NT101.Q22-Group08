@@ -7,10 +7,27 @@ namespace PlayfairCipher
 {
     public partial class MainForm : Form
     {
+        private TextBox txtKey => txtPFKey;
+        private TextBox txtInput => txtPFInput;
+        private TextBox txtOutput => txtPFOutput;
+        private TextBox txtMatrix => txtPFMatrix;
+
         public MainForm()
         {
             InitializeComponent();
+
+            btnPFEncrypt.Click += btnEncrypt_Click;
+            btnPFDecrypt.Click += btnDecrypt_Click;
+            btnPFClear.Click += btnClear_Click;
+
+            btnPlayfair.Click += btnPlayfair_Click;
+            btnRSA.Click += btnRSA_Click;
+
+
+
+            ShowPlayfairUI();
         }
+
 
         private void btnEncrypt_Click(object sender, EventArgs e)
         {
@@ -52,9 +69,55 @@ namespace PlayfairCipher
             txtInput.Clear();
             txtOutput.Clear();
             txtMatrix.Clear();
+
             lblStatus.Text = "Đã xóa dữ liệu.";
         }
+
+
+        private void btnPlayfair_Click(object sender, EventArgs e)
+        {
+            ShowPlayfairUI();
+        }
+
+        private void btnRSA_Click(object sender, EventArgs e)
+        {
+            ShowRSAUI();
+        }
+
+        private void ShowPlayfairUI()
+        {
+            pnlPlayfair.Visible = true;
+            pnlRSA.Visible = false;
+
+            lblCurrentCipher.Text = "Playfair Cipher";
+            lblHeaderDesc.Text = "Giao diện Playfair Cipher.";
+
+            btnPlayfair.BackColor = System.Drawing.Color.AliceBlue;
+            btnRSA.BackColor = System.Drawing.Color.White;
+
+            lblStatus.Text = "Đã chuyển sang Playfair Cipher.";
+        }
+
+        private void ShowRSAUI()
+        {
+            pnlPlayfair.Visible = false;
+            pnlRSA.Visible = true;
+
+            lblCurrentCipher.Text = "RSA Cipher";
+            lblHeaderDesc.Text = "Giao diện RSA Cipher.";
+
+            btnPlayfair.BackColor = System.Drawing.Color.White;
+            btnRSA.BackColor = System.Drawing.Color.AliceBlue;
+
+            lblStatus.Text = "Đã chuyển sang RSA Cipher.";
+        }
+
+        private void pnlRSA_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
+
 
     public class PlayfairCipherEngine
     {
@@ -66,7 +129,7 @@ namespace PlayfairCipher
             BuildMatrix(key);
         }
 
-        //Tạo ma trận Playfair
+        // Tạo ma trận Playfair
         private void BuildMatrix(string key)
         {
             string normalizedKey = NormalizeText(key);
@@ -110,7 +173,7 @@ namespace PlayfairCipher
             }
         }
 
-        //Chuẩn hóa chuỗi
+        // Chuẩn hóa chuỗi
         private string NormalizeText(string text)
         {
             StringBuilder sb = new StringBuilder();
@@ -125,6 +188,7 @@ namespace PlayfairCipher
 
             return sb.ToString();
         }
+
         private List<string> PreparePlainPairs(string plaintext)
         {
             string text = NormalizeText(plaintext);
@@ -161,6 +225,7 @@ namespace PlayfairCipher
 
             return pairs;
         }
+
         private List<string> PrepareCipherPairs(string ciphertext)
         {
             string text = NormalizeText(ciphertext);
@@ -243,7 +308,8 @@ namespace PlayfairCipher
 
             return result.ToString();
         }
-        // 5x5
+
+        //  5x5
         public string GetMatrixAsText()
         {
             StringBuilder sb = new StringBuilder();
